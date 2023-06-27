@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 13 14:58:09 BRT 2023","Thu Apr 13 14:58:09 BRT 2023","183","Tarefas","Atualização","","","","Deve concluir uma tarefa",""
+"passed","Thu Apr 13 14:58:04 BRT 2023","Thu Apr 13 14:58:05 BRT 2023","1197","","Home","","","","Webapp deve estar online",""
+"passed","Thu Apr 13 14:58:09 BRT 2023","Thu Apr 13 14:58:09 BRT 2023","180","Tarefas","Exclusão","","","","Deve remover uma tarefa",""
+"passed","Thu Apr 13 14:58:08 BRT 2023","Thu Apr 13 14:58:08 BRT 2023","443","Tarefas","Cadastro","","","","Não deve permitir tarefa duplicada",""
+"passed","Thu Apr 13 14:58:07 BRT 2023","Thu Apr 13 14:58:08 BRT 2023","620","Tarefas","Cadastro","","","","Deve cadastrar uma nova tarefa",""
+"passed","Thu Apr 13 14:58:08 BRT 2023","Thu Apr 13 14:58:09 BRT 2023","156","Tarefas","Cadastro","","","","Campo obrigatório",""
